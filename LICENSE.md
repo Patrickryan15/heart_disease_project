@@ -1,0 +1,1 @@
+Data for this project was sourced from the Heart Failure Prediction dataset available on Kaggle: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction, licensed under the Open Database License (ODbL): https://opendatacommons.org/licenses/odbl/. I acknowledge the creators of this dataset for their valuable contribution to the field of medical data science.
